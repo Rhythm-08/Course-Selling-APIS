@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/Rhythm-08/Course-Selling-APIS/issues"
   },
-  "homepage": "https://github.com/Rhythm-08/Course-Selling-APIS#readme"
+  "homepage": "https://github.com/Rhythm-08/Course-Selling-APIS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.5",
+    "supertest": "^7.0.0",
+    "ts-node": "^10.9.2"
+  }
 }
